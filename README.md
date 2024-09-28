@@ -1,5 +1,5 @@
 # Machine Learning Algorithms From Scratch
-
+![Project Thumbnail](./Assets/Ml_from_S.png)
 This repository contains implementations of traditional machine learning algorithms from scratch using Python. The purpose of this project is to provide and learn a deeper understanding of the internal workings of these algorithms by implementing them without relying on libraries like `scikit-learn` or `tensorflow`.
 
 
